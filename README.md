@@ -1,6 +1,10 @@
 # Mario Karts
 A data exercise to see if it is possible to define the "best" driver in Mario Kart 8 Deluxe based on a combination of their statistics.
 
+## Project
+
+- [Project write-up with interactive dashboard](https://mavenshowcase.com/project/44656)
+
 ## Acknowledgements
 
 - [Kaggle, Marlow Springmeier](https://www.kaggle.com/datasets/marlowspringmeier/mario-kart-8-deluxe-ingame-statistics?select=drivers.csv), source of data in CSV format
